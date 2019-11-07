@@ -1,5 +1,4 @@
 # sqlalchemy-challenge
-U of A Data Analytics Bootcamp Homework 8
 
 To run this app:
 1. Clone the repository.
